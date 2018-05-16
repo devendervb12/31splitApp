@@ -25,6 +25,11 @@
              "pattern" : "",
              "name" : "home",
              "target" : ["mPage","dPage"]
+            },
+            {
+             "pattern" : "toDetail/{productID}",
+             "name" : "detail",
+             "target" : ["mPage","dPage"]
             }
          
          ],
